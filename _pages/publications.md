@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: publications
-description: My upcoming activities.
-nav: true
+description: Upcoming events.
+nav: false
 nav_order: 2
 ---
 
