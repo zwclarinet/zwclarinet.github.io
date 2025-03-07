@@ -1,6 +1,6 @@
 ---
 layout: page
-title: media
+title: Media
 permalink: /projects/
 description: A growing collection of my recordings.
 nav: true
