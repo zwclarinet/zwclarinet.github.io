@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>DMA candidate, Boston University</a>.
+subtitle: <a href='#'>DMA Candidate, Boston University</a>.
 
 profile:
   align: right
