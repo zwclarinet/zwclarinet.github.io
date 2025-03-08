@@ -1,8 +1,10 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-04-07 20:00:00
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+20:00 Zhen Wang's Self-prepared Recital
+Works by Mieczystaw Weinberg, Jean Francaix, Mario Davidovsky and Yuensuo Yang
+Location: 855 Commonwealth Ave. Boston, MA. Concert Hall
