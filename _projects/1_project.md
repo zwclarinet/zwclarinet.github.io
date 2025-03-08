@@ -5,7 +5,7 @@ description: "by Zhen Wang"
 importance: 1
 category: Solo
 related_publications: false
-img: img: assets/img/project1.PNG
+img: assets/img/project1.PNG
 ---
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjLhMJ8XAVs" frameborder="0" allowfullscreen></iframe>
