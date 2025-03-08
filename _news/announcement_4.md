@@ -7,4 +7,4 @@ related_posts: false
 
 BU Soloist Competition Winner's Concert  
 Presenting Carl Nielsen: Concerto for Clarinet and Orchestra, Op.57 with Boston University Symphony Orchestra  
-Location: 685 Commonwealth Ave, Boston, MA. Tsai Performance Center
+Time & Location: 19:30:00 ET / 685 Commonwealth Ave, Boston, MA. Tsai Performance Center
