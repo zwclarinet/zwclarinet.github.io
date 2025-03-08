@@ -5,5 +5,6 @@ inline: true
 related_posts: false
 ---
 
-18:00 BU Chamber Music Compeition Final Round 
-presenting Jean Francaix: Wind Quintet No.1
+18:00 BU Chamber Music Competition Final Round 
+Presenting Jean Francaix: Wind Quintet No.1
+Location: 855 Commonwealth Ave, Boston, MA. Concert Hall
