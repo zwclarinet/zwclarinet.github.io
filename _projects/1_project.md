@@ -1,7 +1,7 @@
 ---
 layout: page
-title: xxx performance
-description: with background image
+title: Jörg Widmann: Fantasie for Clarinet (1993)
+description: 
 img: assets/img/12.jpg
 importance: 1
 category: Solo
