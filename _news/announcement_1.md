@@ -7,4 +7,4 @@ related_posts: false
 
 Jungmin Kim's   DMA Chamber Recital  
 Presenting Jean Francaix: Wind Quintet No.1  
-Location: 855 Commonwealth Ave, Boston, MA. Concert Hall 
+Time & Location: 18:00:00 ET / 855 Commonwealth Ave, Boston, MA. Concert Hall 
