@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Jorg Widmann: Fantasie for Clarinet (1993)
+title: Jörg Widmann: Fantasie for Clarinet (1993)
 description: by Zhen Wang
-img: assets/img/12.jpg
 importance: 1
 category: Solo
 related_publications: false
