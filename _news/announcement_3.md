@@ -7,4 +7,4 @@ related_posts: false
 
 Zhen Wang's Self-prepared Recital  
 Works by Mieczystaw Weinberg, Jean Francaix, Mario Davidovsky and Yuensuo Yang  
-Location: 855 Commonwealth Ave, Boston, MA. Concert Hall
+Time & Location: 20:00:00 ET / 855 Commonwealth Ave, Boston, MA. Concert Hall
