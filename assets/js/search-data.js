@@ -59,7 +59,7 @@ ninja.data = [{
           section: "News",},{id: "news-zhen-wang-s-self-prepared-recital-works-by-mieczystaw-weinberg-jean-francaix-mario-davidovsky-and-yuensuo-yang-time-amp-amp-location-20-00-00-et-855-commonwealth-ave-boston-ma-concert-hall",
           title: 'Zhen Wang’s Self-prepared Recital Works by Mieczystaw Weinberg, Jean Francaix, Mario Davidovsky and...',
           description: "",
-          section: "News",},{id: "news-bu-soloist-competition-winner-s-concert-presenting-carl-nielsen-concerto-for-clarinet-and-orchestra-op-57-with-boston-university-symphony-orchestra-location-685-commonwealth-ave-boston-ma-tsai-performance-center",
+          section: "News",},{id: "news-bu-soloist-competition-winner-s-concert-presenting-carl-nielsen-concerto-for-clarinet-and-orchestra-op-57-with-boston-university-symphony-orchestra-time-amp-amp-location-19-30-00-et-685-commonwealth-ave-boston-ma-tsai-performance-center",
           title: 'BU Soloist Competition Winner’s Concert Presenting Carl Nielsen: Concerto for Clarinet and Orchestra,...',
           description: "",
           section: "News",},{id: "projects-jörg-widmann-fantasie-for-clarinet-1993",
