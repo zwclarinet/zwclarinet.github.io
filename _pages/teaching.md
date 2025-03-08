@@ -7,4 +7,8 @@ nav: true
 nav_order: 6
 ---
 
-I have extensive teaching experience as a clarinet instructor, working with students of all levels in both academic and private settings. At Boston University’s College of Fine Arts, I teach non-major clarinet students, providing instruction on foundational and advanced techniques. Previously, I served as a clarinet section coach at Kang Chiao International School in Taiwan, where I trained students in chamber music and wind ensemble performance. Additionally, I have been a private clarinet tutor since 2016, mentoring students for competitions and performances while fostering their artistic growth.
+Zhen Wang is a dedicated *clarinet educator*, guiding students from *foundational techniques to advanced performance*. She tailors lessons to individual goals, focusing on *tone production, articulation, phrasing, and musical expression*. With experience in *performance preparation*, she helps students refine their skills for *recitals, competitions, and auditions*.  
+
+Zhen offers *flexible learning options*, including *in-person and remote lessons via Zoom*. She teaches in *English and Mandarin*, making instruction accessible to a diverse range of students. Passionate about *mentorship and musical growth*, she fosters a supportive and inspiring learning environment.  
+
+For lesson inquiries, contact Zhen at *z.w.clarinet@gmail.com*.
