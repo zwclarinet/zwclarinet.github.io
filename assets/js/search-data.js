@@ -50,8 +50,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-18-00-jungmin-kim-s-dma-chamber-recital-presenting-jean-francaix-wind-quintet-no-1",
-          title: '18:00 Jungmin Kim’s   DMA Chamber Recital  presenting Jean Francaix: Wind Quintet No.1',
+            },},{id: "news-18-00-jungmin-kim-s-dma-chamber-recital-presenting-jean-francaix-wind-quintet-no-1-location-855-commonwealth-ave-boston-ma-concert-hall",
+          title: '18:00 Jungmin Kim’s DMA Chamber Recital Presenting Jean Francaix: Wind Quintet No.1 Location:...',
           description: "",
           section: "News",},{id: "news-18-00-bu-chamber-music-compeition-final-round-presenting-jean-francaix-wind-quintet-no-1",
           title: '18:00 BU Chamber Music Compeition Final Round presenting Jean Francaix: Wind Quintet No.1...',
