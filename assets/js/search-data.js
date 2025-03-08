@@ -62,9 +62,9 @@ ninja.data = [{
           section: "News",},{id: "news-bu-soloist-competition-winner-s-concert-presenting-carl-nielsen-concerto-for-clarinet-and-orchestra-op-57-with-boston-university-symphony-orchestra-location-685-commonwealth-ave-boston-ma-tsai-performance-center",
           title: 'BU Soloist Competition Winner’s Concert Presenting Carl Nielsen: Concerto for Clarinet and Orchestra,...',
           description: "",
-          section: "News",},{id: "projects-xxx-performance",
-          title: 'xxx performance',
-          description: "with background image",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-project-2",
