@@ -12,4 +12,4 @@ Zhen offers *flexible learning options*, including *in-person and remote lessons
 
 For lesson inquiries, contact Zhen at *z.w.clarinet@gmail.com*.
 
-<img src="/assets/img/teaching_img.jpg" alt="Zhen Wang Teaching" style="width:50%; display:block; margin:auto;">
+<img src="/assets/img/teaching_img.jpg" alt="Zhen Wang Teaching" style="width:25%; display:block; margin:auto;">
