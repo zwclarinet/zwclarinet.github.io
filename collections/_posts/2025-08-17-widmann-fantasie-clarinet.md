@@ -3,7 +3,7 @@ layout: post
 title: "Jörg Widmann: Fantasie for Clarinet (1993)"
 date: 2025-08-16 10:00:00 +0000
 description: "Virtuoso flourishes and youthful exuberance in a Harlequin-spirited solo—my BU 2024 Carnegie Competition repertoire."
-thumbnail: "/carnegie_hall.JPG"
+thumbnail: "/carnegie_hall.jpg"
 categories: ["Media", "Performance"]
 authors: ["Zhen Wang"]
 ---
