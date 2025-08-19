@@ -6,9 +6,6 @@ description: "One-movement concerto of tension and drama, performed with the Bos
 thumbnail: "/IMG_7721.jpg"
 categories: ["Media", "Performance"]
 authors: ["Zhen Wang"]
-
-
-
 ---
 
 ## Piece Overview
