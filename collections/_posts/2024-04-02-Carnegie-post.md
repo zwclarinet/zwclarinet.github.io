@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Spotlight at Carnegie Hall."
+title: "Spotlight at Carnegie Hall"
 date: 2024-04-02 10:00:00 +0000
 description: "Weill Recital Hal—every phrase felt deeply unforgettable. "
 thumbnail: "/assets/images/carnegie_hall.jpg"
