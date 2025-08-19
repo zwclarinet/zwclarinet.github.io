@@ -48,4 +48,9 @@ Adapted from his Clarinet Quartet No. 1, Ripening was written in 2018 as a mus
 
 Though our rehearsal time was short, Yang’s writing speaks so naturally to clarinetists that it felt instinctive. I’m deeply grateful to him for granting me permission to bring this work to American audiences for the first time.
 
+[Download full program notes for *Ripening* (PDF)](/assets/Ripening 那些年.pdf)
+
+
+
+
 
