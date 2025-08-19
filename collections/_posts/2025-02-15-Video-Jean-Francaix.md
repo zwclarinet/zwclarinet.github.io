@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Jean Françaix: Wind Quintet No. 1 (1948)"
-date: 2025-08-15 10:00:00 +0000
+date: 2025-02-15 10:00:00 +0000
 description: "Jean Françaix: Wind Quintet No. 1 — Lightness, Wit, and Neoclassical Charm."
 thumbnail: "/IMG_7767.jpg"
 categories: ["Media", "Performance"]
