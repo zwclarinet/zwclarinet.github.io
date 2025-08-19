@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Mikhail Glinka: Trio Pathétique in D Minor (1832)"
-date: 2025-08-15 10:00:00 +0000
-description: "Mikhail Glinka: Trio Pathétique in D Minor."
+date: 2024-08-15 10:00:00 +0000
+description: "A rare and heartfelt trio for clarinet, bassoon, and piano—Glinka’s early Romantic voice, performed with lyrical warmth and emotional depth."
 thumbnail: "/IMG_7766.jpg"
 categories: ["Media", "Performance"]
 authors: ["Zhen Wang"]
