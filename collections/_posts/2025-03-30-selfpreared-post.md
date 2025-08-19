@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "DMA Self‑Prepared Recital."
+title: "DMA Self‑Prepared Recital"
 date: 2025-03-30 10:00:00 +0000
 description: "A fully self-directed DMA recital featuring works by Weinberg, Françaix, Davidovsky, and the U.S. premiere of Yuensuo Yang’s Ripening—a vibrant, memory-filled tribute to youth and artistic growth."
 thumbnail: "/assets/images/DSC_7727 3.jpg"
@@ -48,7 +48,12 @@ Adapted from his Clarinet Quartet No. 1, Ripening was written in 2018 as a mus
 
 Though our rehearsal time was short, Yang’s writing speaks so naturally to clarinetists that it felt instinctive. I’m deeply grateful to him for granting me permission to bring this work to American audiences for the first time.
 
-[Download full program notes for *Ripening* (PDF)](/assets/Ripening 那些年.pdf)
+<a href="/assets/Ripening 那些年.pdf" target="_blank" rel="noopener noreferrer">
+  View full program notes for <em>Ripening</em> (PDF)
+</a>
+
+
+
 
 
 
