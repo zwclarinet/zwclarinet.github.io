@@ -15,6 +15,8 @@ Jean Françaix composed his Wind Quintet No. 1 in E major in 1948, commissione
 3.	Tema con variazioni
 4.	Tempo di marcia francese
 Françaix’s style is celebrated for its lightness, wit, and conversational interplay—rooted in the neoclassical tradition, it remains tonal yet fresh, elegantly balancing humor and finesse.
+
+
 ## My Performance Context
 This video captures my performance of Françaix's Wind Quintet No. 1 at my friend Jungmin Kim’s doctoral chamber recital at Boston University. Jungmin Kim, an accomplished oboist, graciously invited our ensemble to collaborate for this special event.
 
