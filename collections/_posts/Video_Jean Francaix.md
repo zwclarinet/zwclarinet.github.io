@@ -18,4 +18,4 @@ Françaix’s style is celebrated for its lightness, wit, and conversational int
 ## My Performance Context
 This video captures my performance of Françaix's Wind Quintet No. 1 at my friend Jungmin Kim’s doctoral chamber recital at Boston University. Jungmin Kim, an accomplished oboist, graciously invited our ensemble to collaborate for this special event.
 
-{% include framework/shortcodes/https://www.youtube.com/watch?v=CvwX6epnvdE %} 
+{% include framework/shortcodes/youtube.html id='CvwX6epnvdE' %} 
