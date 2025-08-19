@@ -18,5 +18,7 @@ Neighborhood Arts is part of Celebrity Series of Boston’s Arts for All! initia
 
 
 **My Personal Reflection: A Meaningful and Cherished Opportunity**
+
+
 Looking back, being part of this project was both meaningful and deeply rewarding for me. None of the five of us had ever played together, yet we came together earnestly, working through each piece with care and curiosity. We spent hours navigating what each composer intended, shaping our interpretations as a team. Sharing that journey—and finally bringing it to life in community venues—felt warm, genuine, and something I’ll always look back on fondly.
 
