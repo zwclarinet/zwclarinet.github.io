@@ -19,7 +19,7 @@ As part of my DMA graduation requirements at Boston University, I presented a Se
 **Mario Davidovsky (1934–2019): Synchronisms No. 12 (2006)**– A bold and immersive piece that integrates clarinet with live electronics, heightening spatial and rhythmic contrasts.
 
 
-**Yuensuo Yang (b. 1985): Ripening (那些年) for B♭ Clarinet and Piano (2018) – U.S. Premiere– **A four-movement narrative piece blending personal memory, humor, and stylistic fusion.
+**Yuensuo Yang (b. 1985): Ripening (那些年) for B♭ Clarinet and Piano (2018) – U.S. Premiere–** A four-movement narrative piece blending personal memory, humor, and stylistic fusion.
 
 
 I extend my sincere thanks to Prof. Rob Patterson and Prof. Linda Toote, who served as the recital committee for this milestone, 
@@ -43,7 +43,7 @@ Adapted from his Clarinet Quartet No. 1, Ripening was written in 2018 as a mus
 **Bad Habits (擇友)** – A mischievous scherzo with bluesy moments and rhythmic surprise.
 
 
-**Options (選擇題) **– A funk-infused finale full of energy, ambiguity, and youthful indecision.
+**Options (選擇題)** – A funk-infused finale full of energy, ambiguity, and youthful indecision.
 
 
 Though our rehearsal time was short, Yang’s writing speaks so naturally to clarinetists that it felt instinctive. I’m deeply grateful to him for granting me permission to bring this work to American audiences for the first time.
