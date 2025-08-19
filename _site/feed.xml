@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhen Wang - Personal Website</title>
+    <description></description>
+    <link>http://0.0.0.0:4000/</link>
+    <atom:link href="http://0.0.0.0:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 18 Aug 2025 18:47:39 -0500</pubDate>
+    <lastBuildDate>Mon, 18 Aug 2025 18:47:39 -0500</lastBuildDate>
+    <generator>Jekyll v3.10.0</generator>
+    
+      <item>
+        <title>Jörg Widmann: Fantasie for Clarinet (1993)</title>
+        <description>&lt;h2 id=&quot;piece-overview&quot;&gt;Piece Overview&lt;/h2&gt;
+&lt;p&gt;Composed in 1993 by Jörg Widmann—whose Fantasie for solo clarinet is often described as brimming with “virtuoso flourishes and youthful exuberance”. This captivating solo work embodies a “Harlequin spirit,” merging Romantic melodic richness with playful nods to klezmer, jazz, and theatrical irony.
+Widmann pushes the clarinet into new expressive territory by seamlessly integrating extended techniques—such as multiphonics, flutter-tonguing, key clicks, upper-register glissandi, and non-pitched sounds—into the musical texture. The result is a dynamic, dramatic, and technically thrilling piece beyond mere novelty.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-performance-context&quot;&gt;My Performance Context&lt;/h2&gt;
+&lt;p&gt;I originally performed Fantasie for Boston University’s 2024 Carnegie Competition. Although the performance at Carnegie Hall could not be recorded, I later re-recorded the piece in Pierce Hall at New England Conservatory.&lt;/p&gt;
+
+&lt;iframe height=&quot;468&quot; width=&quot;100%&quot; src=&quot;https://www.youtube-nocookie.com/embed/jjLhMJ8XAVs&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+</description>
+        <pubDate>Sat, 16 Aug 2025 05:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2025-08-17-widmann-fantasie-clarinet/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2025-08-17-widmann-fantasie-clarinet/</guid>
+        
+        
+        <category>Media</category>
+        
+        <category>Performance</category>
+        
+      </item>
+    
+      <item>
+        <title>Carl Nielsen: Clarinet Concerto, Op. 57</title>
+        <description>&lt;h2 id=&quot;piece-overview&quot;&gt;Piece Overview&lt;/h2&gt;
+&lt;p&gt;Composed in 1928 for clarinetist Aage Oxenvad, Carl Nielsen’s Clarinet Concerto unfolds in one continuous movement that traverses four distinct thematic episodes with tension and drama. The concerto is notable for its tonal conflict—particularly between F and E—and its chamber-like orchestration featuring clarinet, two bassoons, two horns, strings, and a snare drum that acts as an antagonistic voice throughout the dialogue between soloist and orchestra. Some sources suggest Nielsen may have been playfully referencing Oxenvad’s intense emotional swings, as he was said to suffer from bipolar disorder.&lt;/p&gt;
+
+&lt;h2 id=&quot;my-performance-context&quot;&gt;My Performance Context&lt;/h2&gt;
+&lt;p&gt;I performed this concerto for Boston University’s 2024 Soloist Competition. This video captures my Winner’s Concert performance with the Boston University Symphony Orchestra, conducted by Sarah Ioannides at the Tsai Performance Center.&lt;/p&gt;
+
+&lt;iframe height=&quot;468&quot; width=&quot;100%&quot; src=&quot;https://www.youtube-nocookie.com/embed/k6Ee_SilVaQ&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;
+&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 15 Aug 2025 05:00:00 -0500</pubDate>
+        <link>http://0.0.0.0:4000/blog/2025-08-18-nielsen-clarinet-concerto/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2025-08-18-nielsen-clarinet-concerto/</guid>
+        
+        
+        <category>Media</category>
+        
+        <category>Performance</category>
+        
+      </item>
+    
+      <item>
+        <title>Repertoire: Dvořák’s Symphony No. 9 in E minor, “From the New World” Op. 95</title>
+        <description>&lt;p&gt;This monumental work, composed in 1893 during Dvořák’s time in the United States, famously blends symphonic tradition with influences drawn from African American spirituals and Native American melodies. The “New World” Symphony has become celebrated for its evocative themes and emotional breadth—a journey through longing, nostalgia, and hope.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;“Music is the universal language that connects us all, and I’m grateful to be part of this beautiful conversation.”&lt;/em&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Jan 2025 04:00:00 -0600</pubDate>
+        <link>http://0.0.0.0:4000/blog/2025-01-15-my-first-blog-post/</link>
+        <guid isPermaLink="true">http://0.0.0.0:4000/blog/2025-01-15-my-first-blog-post/</guid>
+        
+        
+        <category>Blog</category>
+        
+        <category>Personal</category>
+        
+      </item>
+    
+  </channel>
+</rss>
