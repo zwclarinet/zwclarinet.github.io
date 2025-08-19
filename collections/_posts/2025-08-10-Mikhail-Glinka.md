@@ -3,7 +3,7 @@ layout: post
 title: "Mikhail Glinka: Trio Pathétique in D Minor (1832)"
 date: 2025-08-15 10:00:00 +0000
 description: "Mikhail Glinka: Trio Pathétique in D Minor."
-thumbnail: "/IMG_7767.jpg"
+thumbnail: "/IMG_7766.jpg"
 categories: ["Media", "Performance"]
 authors: ["Zhen Wang"]
 ---
