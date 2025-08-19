@@ -7,7 +7,7 @@ thumbnail: "/assets/images/DSC_7727 3.jpg"
 categories: ["Blog", "Personal"]
 authors: ["Zhen Wang"]
 ---
-As part of my DMA graduation requirements at Boston University, I presented a Self‑Prepared Recital, a unique format in which students must independently select, study, and prepare a full solo program without any coaching. I was fortunate to collaborate with pianist Pin‑Han Huang for this performance, and together we explored four contrasting works that span modernist clarity, lyrical nostalgia, and electroacoustic innovation:
+As part of my DMA graduation requirements at Boston University, I presented a Self‑Prepared Recital, a unique format in which students must independently select, study, and prepare a full solo program without any coaching. I was fortunate to collaborate with pianist Pin‑Han Huang for this performance, and together we explored four contrasting works that span modernist clarity, lyrical nostalgia, and electroacoustic innovation: 
 
 
 **Mieczysław Weinberg (1919–1996): Sonata for Clarinet and Piano, Op. 28 (1945)–** A post-war work of lyrical intensity, shaped by Jewish folk melodies and Shostakovich-like drama.
