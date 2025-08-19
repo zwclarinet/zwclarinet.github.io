@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Carl Nielsen: Clarinet Concerto, Op. 57"
+title: "Carl Nielsen: Clarinet Concerto, Op. 57 (1928)"
 date: 2025-05-01 10:00:00 +0000
 description: "One-movement concerto of tension and drama, performed with the Boston University Symphony Orchestra."
 thumbnail: "/IMG_7721.jpg"
