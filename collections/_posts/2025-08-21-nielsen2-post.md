@@ -14,7 +14,7 @@ authors: ["Zhen Wang"]
 Following Part 1’s discussion of Carl Nielsen and Aage Oxenvad, 
 this post explores how Clarinet Concerto, Op. 57 represents bipolarity through its structure and musical language. 
 We’ll examine how Nielsen’s choices—tonal ambiguity, sudden contrasts, and unique orchestration—embody emotional 
-swings and challenge performers to interpret them faithfully.
+swings and challenge performers to interpret them faithfully. 
 
 
 
