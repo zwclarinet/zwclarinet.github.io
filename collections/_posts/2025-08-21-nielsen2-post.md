@@ -19,6 +19,7 @@ swings and challenge performers to interpret them faithfully.
 
 
 📥 Download the supplemental materials:
+
 <a href="/assets/Handout.pdf" target="_blank" rel="noopener noreferrer">
   Lecture Handout: Bipolarity in Nielsen’s Concerto (PDF)
 </a>
