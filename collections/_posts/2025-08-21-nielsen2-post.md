@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Bipolarity in Music: Carl Nielsen's Clarinet Concerto (Part 2 – Musical Structure & Interpretation)"
-date: 2025-08-21 10:00:00 +0000
+date: 2025-08-21 15:00:00 +0000
 description: "An in-depth exploration of Nielsen’s compositional techniques and interpretive challenges in his Clarinet Concerto."
 thumbnail: "/assets/images/IMG_7779.jpg"
 categories: ["Blog", "Personal"]
