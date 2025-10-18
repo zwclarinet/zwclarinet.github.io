@@ -43,7 +43,7 @@ Either path leads to graduation—but both require not only musical skill, but a
 
 In my own experience, I didn’t find the coursework or qualifying exams particularly “hard” in a traditional sense—but they were **designed to be selective**. The most difficult part was managing time during the first two years. Daily ensemble rehearsals fragmented my schedule, yet I had to prepare for exams, complete coursework, and meet recital requirements.
 
-At the same time, I was actively performing outside of school, teaching students, and even participating in competitions. During these three years, I **won two major competitions**, maintained **ongoing teaching commitments**, and performed frequently in the Boston area.
+At the same time, I was actively performing outside of school, teaching students, and even participating in competitions. During these three years, I **won two major competitions** at BU, maintained **ongoing teaching commitments**, and performed frequently in the Boston area.
 
 This experience taught me how to **juggle multiple high-level responsibilities without sacrificing quality**. That’s perhaps the most valuable lesson I took away from BU: not just how to play or teach better, but how to **sustain excellence under pressure**.
 
