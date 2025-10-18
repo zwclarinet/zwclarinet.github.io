@@ -8,20 +8,30 @@ categories: ["Blog", "Personal"]
 authors: ["Zhen Wang"]
 ---
 
-On **October 14, 2025**, I had the privilege of presenting a 45-minute guest artist lecture-recital at **Tarrant County College Northwest Campus**. The program was designed to highlight the clarinet’s expressive range and stylistic versatility, with works selected from five different musical eras. Each piece was introduced with a brief spoken explanation, helping students connect more deeply with the music.
+On **October 14, 2025**, I had the joy of presenting a guest artist lecture-recital at **Tarrant County College Northwest Campus**. It was a 45-minute program, designed to offer students a glimpse into the clarinet’s expressive range—through works from five different musical periods, each introduced with a short spoken note.
 
-We began with **Carl Maria von Weber’s Grand Duo Concertant**, a dramatic work that bridges Classical and Romantic aesthetics. While Mozart gave the clarinet its first big stage presence, Weber brought it into the operatic realm—his writing full of theatrical flair and melodic interplay. In this piece, the piano is far more than accompaniment; it becomes a true partner, like two characters singing in duet.
+The experience was equal parts performance and conversation, and I left feeling incredibly grateful for the opportunity.
 
-Next came **Johannes Brahms’s Clarinet Sonata No. 2**, specifically the fiery second movement. This piece holds a special story—Brahms had essentially retired from composing until he heard clarinetist Richard Mühlfeld, whose sound reignited his creative spark. This movement is passionate yet tightly structured, a hallmark of Brahms’s later style and love for “absolute music.”
+### One movement at a time
 
-Shifting into the 20th century, I performed the final movement of **Francis Poulenc’s Clarinet Sonata**, written for Benny Goodman but premiered posthumously by Goodman and Leonard Bernstein. Poulenc embraced neoclassicism, blending classical form with modern harmonic colors. His writing in this movement is spirited and witty, with moments of lyricism and bite that reflect his unique voice.
+Rather than performing full-length works, I chose to present a single movement from each piece—allowing us to explore contrast, color, and character, all within a compact format.
 
-From there, we dove into the world of contemporary music with **Jörg Widmann’s Fantasie** for solo clarinet. Written in 1993, it has become a modern standard in clarinet competitions and recitals—not only for its difficulty, but for how it stretches the instrument’s sonic possibilities. With techniques like **multiphonics**, **flutter-tonguing**, and **glissandi**, the piece asks the performer to become a sound explorer, pushing boundaries with every breath.
+We began with **Carl Maria von Weber’s Grand Duo Concertant**. Often viewed as a bridge between Classical clarity and Romantic drama, this piece gives equal weight to both clarinet and piano. It’s dramatic and virtuosic—almost operatic. In fact, many moments feel like a duet between two singers.
 
-We ended the evening with a bit of humor: **Adolf Schreiner’s Immer Kleiner (Always Smaller)**, a light-hearted piece in which the clarinet seemingly gets smaller and smaller as the music goes on. It was a fun way to close the program and left the audience smiling.
+Next came **Johannes Brahms’s Sonata No. 2 in E-flat Major**, second movement. Brahms had nearly retired from composing when he encountered clarinetist Richard Mühlfeld. So inspired by his playing, Brahms returned to writing and gifted the world four clarinet masterpieces. This Allegro appassionato is compact, fiery, and deeply lyrical—expressive without needing extra explanation.
 
-I was joined by the talented pianist **Daria Kiselesa**, a DMA student at **Texas Christian University**, whose artistry brought incredible depth and clarity to the performance. This recital was coordinated with **Director Benson Lee**, who reached out in late August, and I’m truly thankful for the invitation and support.
+Then we moved into the 20th century, with the third movement of **Francis Poulenc’s Clarinet Sonata**. This was one of his final works, written for Benny Goodman. Sadly, Poulenc passed before the premiere, which ended up being performed by Goodman and Leonard Bernstein. The movement is filled with Poulenc’s signature charm—sharp rhythms, emotional turns, and flashes of unexpected tenderness.
 
-After the performance, we held a Q&A session, which became one of my favorite parts of the evening. The students asked thoughtful, curious, and even technical questions about clarinet playing, musical interpretation, and career paths. Their engagement reminded me how powerful it is to not just perform, but to **teach through performance**.
+From there, we dove into **Jörg Widmann’s Fantasie for Clarinet Solo**, written in 1993 and now considered a modern staple. It’s a piece that asks: *what happens when we push the clarinet to its limits?* With multiphonics, flutter-tongue, glissando, and theatrical outbursts, the piece is wild, imaginative, and unapologetically contemporary.
 
-Looking back, this guest artist recital wasn’t just about playing five pieces—it was about storytelling, community, and connection. I left feeling grateful, inspired, and even more motivated to keep sharing music in spaces where curiosity and creativity thrive.
+To close the evening, I chose something light-hearted: **Adolf Schreiner’s Immer Kleiner (Always Smaller)**. There’s no deeper meaning here—it’s simply fun. And sometimes, that’s the best reason to play something.
+
+### Behind the scenes
+
+I was fortunate to be joined by **Daria Kiselesa**, a DMA pianist from **Texas Christian University**, whose collaboration brought warmth and clarity to every piece. We had been preparing this recital since **late August**, with support from **Director Benson Lee**, who first reached out with the invitation.
+
+Everything—from rehearsal logistics to program design—was thoughtfully coordinated. I truly appreciated the care and welcome from the TCC community.
+
+### Conversations that matter
+
+One of the most memorable parts of the evening came after the music ended. During the **Q&A session**, students asked insightful questions about clarinet techniques, musical decision-making, and even professional development. Their curiosity was energizing—and reminded me that performance can
