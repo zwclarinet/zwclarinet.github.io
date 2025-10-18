@@ -38,7 +38,8 @@ A highlight of my interdisciplinary work was participating in National Geographi
 
 In recognition of my work, I have been honored with awards such as the Boston University Soloist Competition and the Boston University at Carnegie Hall Competition, and was inducted into Pi Kappa Lambda, a national music honor society for excellence in performance and scholarship. These milestones remind me of the responsibility and joy of continuing to grow as both a performer and educator.
 
-[Download CV (PDF)](/assets/CV-Zhen Wang.pdf)
+[Download CV (PDF)](/assets/CV-Zhen-Wang.pdf)
+
 
 
 
