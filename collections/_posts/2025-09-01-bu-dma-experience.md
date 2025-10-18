@@ -3,7 +3,7 @@ layout: post
 title: "Three Intense, Fulfilling Years: My Doctoral Journey at Boston University"
 date: 2025-09-01 10:00:00 +0000
 description: "A personal reflection on completing my Doctor of Musical Arts at Boston University"
-thumbnail: "/assets/images/bu graduation.jpg"
+thumbnail: "/assets/images/bu graduation.JPG"
 categories: ["Blog", "Personal"]
 authors: ["Zhen Wang"]
 ---
@@ -25,7 +25,7 @@ Now consider this: each ensemble course counts for only **one credit** per semes
 ### The Academic Milestones
 
 BU’s DMA program is rigorous, yet structured. After coursework, you must pass **six qualifying exams**:
-- **Four in theory**: Choral Analysis, Skills, Tonal, and Atonal
+- **Four in theory**: Choral, Skills, Tonal, and Atonal
 - **One in musicology**
 - **One in your major area**
 
@@ -53,7 +53,7 @@ This experience taught me how to **juggle multiple high-level responsibilities w
 
 Boston itself is an inspiring place to study music. The city is rich with opportunities—if you’re willing to explore. Student tickets for **Boston Symphony Orchestra** performances are available almost every week, which means you’re constantly surrounded by world-class artistry.
 
-The faculty at BU are equally impressive—Grammy-winning artists, members of the BSO, even players from the **New York Philharmonic**. Chamber music coaching was a particular highlight for me: every semester, I had the chance to work with different faculty, each bringing new ideas and interpretations that deeply shaped my musicianship.
+The faculty at BU are equally impressive—**Competitions-winning artists**, members of the **BSO**, even players from the **New York Philharmonic**. Chamber music coaching was a particular highlight for me: every semester, I had the chance to work with different faculty, each bringing new ideas and interpretations that deeply shaped my musicianship.
 
 Many of my classes left me feeling transformed—not just technically, but artistically. The intellectual and musical stimulation was constant and rewarding.
 
