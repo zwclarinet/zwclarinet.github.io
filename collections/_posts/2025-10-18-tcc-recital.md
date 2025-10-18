@@ -8,9 +8,11 @@ categories: ["Blog", "Personal"]
 authors: ["Zhen Wang"]
 ---
 
-On **October 14, 2025**, I had the joy of presenting a guest artist lecture-recital at **Tarrant County College Northwest Campus**. It was a 45-minute program, designed to offer students a glimpse into the clarinet’s expressive range—through works from five different musical periods, each introduced with a short spoken note.
+On **October 14, 2025**, I had the joy of presenting a guest artist lecture-recital at **Tarrant County College Northwest Campus**. The program was designed to offer students a glimpse into the clarinet’s expressive range—through works from five different musical periods, each introduced with a short spoken note.
 
 The experience was equal parts performance and conversation, and I left feeling incredibly grateful for the opportunity.
+
+---
 
 ### One movement at a time
 
@@ -34,4 +36,14 @@ Everything—from rehearsal logistics to program design—was thoughtfully coord
 
 ### Conversations that matter
 
-One of the most memorable parts of the evening came after the music ended. During the **Q&A session**, students asked insightful questions about clarinet techniques, musical decision-making, and even professional development. Their curiosity was energizing—and reminded me that performance can
+One of the most memorable parts of the evening came after the music ended. During the **Q&A session**, students asked insightful questions about clarinet techniques, musical decision-making, and even professional development. Their curiosity was energizing—and reminded me that performance can open up space for dialogue, not just applause.
+
+As an educator and performer, I always hope for moments like these. When music becomes not just something to listen to, but something to ask about.
+
+---
+
+### A closing note
+
+This recital reminded me that sharing music isn't just about presenting something polished—it's about building bridges between people, ideas, and sound. I'm grateful to TCC Northwest for making space for that kind of experience.
+
+And I hope it’s just the beginning of more musical conversations to come.
